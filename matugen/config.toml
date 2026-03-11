@@ -1,0 +1,33 @@
+[config]
+
+[templates.foot]
+input_path = '~/.config/matugen/templates/foot-colors.ini'
+output_path = '~/.config/foot/colors.ini'
+
+[templates.nvim]
+input_path = '~/.config/matugen/templates/nvim-colors.lua'
+output_path = '~/.config/nvim/colors/matugen.lua'
+
+[templates.cava]
+input_path = '~/.config/matugen/templates/cava-theme'
+output_path = '~/.config/cava/themes/matugen'
+
+[templates.ncspot]
+input_path = '~/.config/matugen/templates/ncspot-theme.toml'
+output_path = '~/.config/ncspot/theme.toml'
+
+[templates.waybar]
+input_path = '~/.config/matugen/templates/waybar-style.css'
+output_path = '~/.config/waybar/style.css'
+
+[templates.btop]
+input_path = '~/.config/matugen/templates/btop-theme.toml'
+output_path = '~/.config/btop/themes/matugen.toml'
+
+[templates.lavat]
+input_path = '~/.config/matugen/templates/lavat-config.fish'
+output_path = '~/.config/lavat/config.fish'
+
+[templates.dunst]
+input_path = '~/.config/matugen/templates/dunstrc.template'
+output_path = '~/.config/dunst/dunstrc'

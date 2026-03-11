@@ -1,0 +1,17 @@
+# btop++ matugen theme
+
+[colors]
+foreground = "#{{ colors.on_background.default.hex_stripped }}"
+cpu_box = "#{{ colors.primary.default.hex_stripped }}"
+mem_box = "#{{ colors.secondary.default.hex_stripped }}"
+net_box = "#{{ colors.tertiary.default.hex_stripped }}"
+proc_box = "#{{ colors.primary_container.default.hex_stripped }}"
+div_line = "#{{ colors.surface_variant.default.hex_stripped }}"
+temp_high = "#{{ colors.error.default.hex_stripped }}"
+temp_medium = "#{{ colors.tertiary.default.hex_stripped }}"
+temp_low = "#{{ colors.primary.default.hex_stripped }}"
+proc_misc = "#{{ colors.secondary.default.hex_stripped }}"
+proc_name = "#{{ colors.on_background.default.hex_stripped }}"
+proc_attr = "#{{ colors.on_surface_variant.default.hex_stripped }}"
+inactive_fg = "#{{ colors.surface_variant.default.hex_stripped }}"
+background = "#{{ colors.background.default.hex_stripped }}"

@@ -1,0 +1,48 @@
+[global]
+    monitor = 0
+    follow = none
+    geometry = "400x100-10+50"
+    indicate_hidden = yes
+    shrink = no
+    transparency = 15
+    notification_height = 0
+    separator_height = 2
+    padding = 12
+    horizontal_padding = 12
+    frame_width = 2
+    frame_color = "#{{ colors.outline.default.hex_stripped }}"
+    corner_radius = 12
+    separator_color = "#{{ colors.outline_variant.default.hex_stripped }}"
+    sort = yes
+    idle_threshold = 120
+    font = JetBrains Mono Nerd Font 11
+    line_height = 0
+    markup = full
+    format = "<b>%s</b>\n%b"
+    alignment = left
+    vertical_alignment = center
+    show_age_threshold = 60
+    ellipsize = middle
+    ignore_newline = no
+    stack_duplicates = true
+    hide_duplicate_count = false
+    show_indicators = yes
+    icon_position = left
+    max_icon_size = 32
+    sticky_history = yes
+    history_length = 20
+
+[urgency_low]
+    background = "#{{ colors.background.default.hex_stripped }}"
+    foreground = "#{{ colors.on_background.default.hex_stripped }}"
+    timeout = 10
+
+[urgency_normal]
+    background = "#{{ colors.background.default.hex_stripped }}"
+    foreground = "#{{ colors.on_background.default.hex_stripped }}"
+    timeout = 13
+
+[urgency_critical]
+    background = "#{{ colors.error_container.default.hex_stripped }}"
+    foreground = "#{{ colors.on_error_container.default.hex_stripped }}"
+    timeout = 0

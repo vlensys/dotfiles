@@ -1,0 +1,17 @@
+# btop++ matugen theme
+
+[colors]
+foreground = "#e1e2e8"
+cpu_box = "#9fcafc"
+mem_box = "#bac8db"
+net_box = "#d5bee5"
+proc_box = "#164974"
+div_line = "#42474e"
+temp_high = "#ffb4ab"
+temp_medium = "#d5bee5"
+temp_low = "#9fcafc"
+proc_misc = "#bac8db"
+proc_name = "#e1e2e8"
+proc_attr = "#c2c7cf"
+inactive_fg = "#42474e"
+background = "#101418"
