@@ -22,12 +22,15 @@ spotify-player
 
 # keybinds
 ```
+# apps
 SUPER + W - browser
 SUPER + T - terminal
 SUPER + Q - quit
 SUPER + F/F11 - fullscreen
 SUPER + V - toggle floating
 SUPER + R - fuzzle!
+
+# windows/workspaces
 SUPER + X/RMB - rezise window
 SUPER + Z/LMB - move window
 SUPER + ARROW KEYS - change window focus
