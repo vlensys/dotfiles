@@ -18,6 +18,8 @@ fuzzle
 dunst
 zen browser
 spotify-player
+tty-clock
+lavat
 ```
 
 # keybinds
