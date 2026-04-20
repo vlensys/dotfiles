@@ -1,6 +1,6 @@
 
 # !! NO BARS HERE !!
-<img width="2558" height="1599" alt="image" src="https://github.com/user-attachments/assets/ea4e076d-a6f9-47c3-8350-e88954d0f4e4" />
+<img width="2558" alt="image" src="https://github.com/user-attachments/assets/ea4e076d-a6f9-47c3-8350-e88954d0f4e4" />
 
 # all apps here
 ```
